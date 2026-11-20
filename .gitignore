@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Temporary media cache
+now_playing_art.jpg
+out_media.txt
+scratch_*.py
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
